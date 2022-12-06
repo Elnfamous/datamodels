@@ -6,7 +6,7 @@
     "mediaGalleryItems": {
       "type": "array",
       "items": {
-        "$ref": "#/definitions/MediaObjectStreamId"
+        "$ref": "cip88:ref:ceramic://kjzl6cwe1jw1487icn68i9e5rd6vqcab38iz4tyb3wl62fg35bbttt3z6ika5v6"
       }
     }
   },
